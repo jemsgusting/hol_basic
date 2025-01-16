@@ -1,9 +1,11 @@
 #!/bin/bash
 # Set environment variables
 AWS_REGION="ap-northeast-2"
-AWS_ACCOUNT_ID="602229900482"
+# AWS_ACCOUNT_ID 는 aws 계정 ID -> 숫자로 구성된 것
+AWS_ACCOUNT_ID="602229900482"  
 USER_EMAIL="cj-cloud-wave@workshops.aws"
 USER_NAME="Workshop Public Cloud"
+# PASSWORD 는 내가 웹에서 IP:PORT 형식으로 접속한 사이트에 접속시 입력할 비밀번호 
 PASSWORD="CJ_CloudWave2025!!"
 HOMEFOLDER="/Workshop"
 
